@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hello guys! Welcome to my profile 😊
 
-<!--
-**leonardorvdcorreia/leonardorvdcorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Leonardo Rossi 🇧🇷
 
-Here are some ideas to get you started:
+- I study at E.E Prof. Nadir Lessa Tognini
+- I'm learning programming languages, like JavaScript
+- I am a student at [Alura](https://www.alura.com.br)
+- I use this space to organize and share my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄
+
+### You can contact me 📫
+
+00001119894955sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/C4u_Q9VzxRkAAAAC/marvel-future-fight-doctor-doom.gif)
